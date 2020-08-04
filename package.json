@@ -1,0 +1,13 @@
+{
+  "name": "aws-lambda-project",
+  "version": "1.0.0",
+  "description": "This project is an exercise in working with AWS Lambda apps.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "wjb",
+  "license": "Unlicense",
+  "dependencies": {
+    
+  }
+}
